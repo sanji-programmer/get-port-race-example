@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/sanji-programmer/get-port-race-example#readme",
   "dependencies": {
+    "async-mutex": "^0.1.3",
     "get-port": "^5.0.0"
   }
 }
